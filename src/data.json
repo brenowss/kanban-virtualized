@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "title": "Create project proposal",
+    "description": "Draft a detailed proposal outlining project goals, scope, and deliverables.",
+    "column": "todo"
+  },
+  {
+    "id": "2",
+    "title": "Research market trends",
+    "description": "Conduct market research to identify current trends and competitor analysis.",
+    "column": "todo"
+  },
+  {
+    "id": "3",
+    "title": "Design wireframes",
+    "description": "Create wireframes to visualize the layout and structure of the project.",
+    "column": "inprogress"
+  },
+  {
+    "id": "4",
+    "title": "Develop backend functionality",
+    "description": "Implement backend logic and database management for the project.",
+    "column": "inprogress"
+  },
+  {
+    "id": "5",
+    "title": "Implement frontend design",
+    "description": "Code the user interface based on the provided design mockups.",
+    "column": "inprogress"
+  },
+  {
+    "id": "6",
+    "title": "Write test cases",
+    "description": "Create test cases to ensure the reliability and functionality of the code.",
+    "column": "inprogress"
+  },
+  {
+    "id": "7",
+    "title": "Review code",
+    "description": "Conduct peer code review to identify and address any issues or improvements.",
+    "column": "review"
+  },
+  {
+    "id": "8",
+    "title": "Address feedback",
+    "description": "Resolve feedback received during code review and make necessary adjustments.",
+    "column": "blocked"
+  },
+  {
+    "id": "9",
+    "title": "Deploy to production",
+    "description": "Deploy the project to the production environment for end-user access.",
+    "column": "done"
+  },
+  {
+    "id": "10",
+    "title": "Create user documentation",
+    "description": "Prepare comprehensive documentation to guide users on using the product.",
+    "column": "done"
+  },
+  {
+    "id": "11",
+    "title": "Conduct user testing",
+    "description": "Gather feedback from real users to identify usability issues and improvements.",
+    "column": "todo"
+  },
+  {
+    "id": "12",
+    "title": "Optimize database queries",
+    "description": "Improve the performance of database queries to enhance overall system efficiency.",
+    "column": "inprogress"
+  },
+  {
+    "id": "13",
+    "title": "Fix UI bugs",
+    "description": "Identify and fix any bugs or inconsistencies in the user interface.",
+    "column": "inprogress"
+  },
+  {
+    "id": "14",
+    "title": "Prepare marketing materials",
+    "description": "Create promotional materials to market the project to potential users.",
+    "column": "inprogress"
+  },
+  {
+    "id": "15",
+    "title": "Hire new team members",
+    "description": "Recruit and onboard new team members to support project development.",
+    "column": "blocked"
+  },
+  {
+    "id": "16",
+    "title": "Update API documentation",
+    "description": "Revise and update documentation to reflect changes made to the API.",
+    "column": "done"
+  },
+  {
+    "id": "17",
+    "title": "Create sprint plan",
+    "description": "Plan and schedule tasks for the upcoming sprint based on project priorities.",
+    "column": "todo"
+  },
+  {
+    "id": "18",
+    "title": "Attend project meeting",
+    "description": "Participate in team meetings to discuss project progress and address any issues.",
+    "column": "inprogress"
+  },
+  {
+    "id": "19",
+    "title": "Finalize budget report",
+    "description": "Review and finalize the budget report detailing project expenses and allocations.",
+    "column": "review"
+  },
+  {
+    "id": "20",
+    "title": "Organize team building event",
+    "description": "Plan and coordinate a team-building event to foster camaraderie and collaboration.",
+    "column": "done"
+  }
+]
